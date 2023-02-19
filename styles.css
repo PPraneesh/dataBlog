@@ -1,0 +1,59 @@
+/* Text */
+.pageHead{
+    font-family: 'Titillium Web';
+    text-align: center;
+}
+.featuredText{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 50px;
+    padding: 13px 26px; 
+}
+/* intro */
+.intro{
+    background-color: #0a090b ;
+    border-radius: 5px;
+    padding: 0 ;
+    }
+.intro-text{
+    color: white;
+    padding: 0;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 75px;
+    padding: 13px 26px;
+}
+.intro-para{
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+    margin: 0 26px 13px 26px;
+}
+
+.featured{
+background-color: white;
+}
+.intro-img{
+padding:0  ;
+width: 550px;
+
+}
+/*button*/
+.btn {
+    border-radius: 7px;
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+    font-size: 30px;
+    background: #0a090b;
+    padding: 24px 40px 24px 40px;
+    border: solid #0a090b 2px;
+    text-decoration: none;
+    margin: 0 26px 13px 26px;
+  }
+  
+  .btn:hover {
+    background: #fcfcfc;
+    text-decoration: none;  
+  }
+  
+body{
+    padding: 0 3%;
+}
