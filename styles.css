@@ -31,10 +31,11 @@
 .featured{
 background-color: white;
 }
+
 .intro-img{
 padding:0  ;
 width: 550px;
-
+margin: 40px 0 0 0 ;
 }
 /*button*/
 .btn {
